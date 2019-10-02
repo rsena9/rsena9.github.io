@@ -2,7 +2,7 @@
 
 # Career Objectives
 
-## Current Projects
+# Current Projects
 
 * [PLG-N](plg-n/)
 
